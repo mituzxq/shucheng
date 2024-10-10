@@ -1,0 +1,1 @@
+export const baseApi='http://47.236.107.203:3000'
